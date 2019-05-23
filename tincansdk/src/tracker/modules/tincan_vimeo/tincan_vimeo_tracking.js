@@ -26,10 +26,6 @@
 
             video.attr('id', id);
 
-            if (src.indexOf("api=1") === -1) {
-                video.attr('src', src + "?api=1&player_id=" + id);
-            }
-
             video.addClass('tracker');
 
             log.write('Vimeo tracker init for ' + src);
