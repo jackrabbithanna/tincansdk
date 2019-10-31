@@ -13,6 +13,6 @@
     "@vimeo/player": "^2.9.1",
     "fingerprintjs2": "^1.0.3",
     "moment": "^2.11.2",
-    "superagent": "^1.6.1"
+    "superagent": "^5.0.2"
   }
 }
